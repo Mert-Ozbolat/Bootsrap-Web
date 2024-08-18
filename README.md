@@ -14,4 +14,4 @@ This project is a modern and responsive website built using Bootstrap. The site 
 - **Easy Customization:** The code structure is organized for easy development and modifications.
 
 # 👀Preview
-![](./Bootstrap-Web.gif)# Bootsrap-Web
+![](./Bootstrap-Web.gif)
